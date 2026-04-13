@@ -7,7 +7,7 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 # ========== НАСТРОЙКИ (ЭТО НАДО ИЗМЕНИТЬ!) ==========
 # 1. Вставь сюда токен, который дал тебе BotFather
-BOT_TOKEN = "ТВОЙ_ТОКЕН_СЮДА"
+BOT_TOKEN = "8653071205:AAEgxW-1hxaPhk0bC1S5bjxalTQomH3PxVo"
 
 # 2. URL сайта Матрешки
 SITE_URL = "https://matrp.ru/"
